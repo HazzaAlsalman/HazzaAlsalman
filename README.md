@@ -5,9 +5,13 @@ General Student @King's College London
 Interested in engineering, technology, problem solving and hands-on projects.
 
 Currently learning and experimenting with:
+
 -Python
+
 -Electronics & embedded systems
+
 -CAD & engineering tools
+
 -Automation workflows
 
 <!--
