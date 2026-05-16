@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+General Student @King's College London
+
+Interested in engineering, technology, problem solving and hands-on projects.
+
+Currently learning and experimenting with:
+-Python
+-Electronics & embedded systems
+-CAD & engineering tools
+-Automation workflows
+
 <!--
 **HazzaAlsalman/HazzaAlsalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
